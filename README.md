@@ -13,6 +13,7 @@ I have reported professor's solutions and I have implemented two optimization al
 - **Solution 2** is based on **Tabu Search**
 
 ### Results
+The code I've uploaded is only for instance 2, but I've tested all the instances and reported the results in the table below and in the folder "plots".
 
 | Instance | Universe Size | Num Sets | Density | Execution Time Sol 1 | Execution Time Sol 2 | Fitness Solution 1 | Fitness Solution 2 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,4 +33,4 @@ Based on the performance data in the table:
 
 While Simulated Annealing handles larger instances more efficiently in terms of execution time, the trade-off is a lower fitness quality. Tabu Search, though computationally expensive, proves to be more robust in terms of solution quality, especially for larger and more complex instances.
 
-The code I've uploaded is only for instance 2, but I've tested all the instances and reported the results in the table and in the folder "plots".
+Depending on the goal (better results, shorter time) one algorithm is better than the other.
