@@ -9,8 +9,8 @@ Solve efficiently these instances customizing a technique discussed in class
 
 I have implemented two optimization algorithms to solve the given problem:
 
-- **Solution 1** is based on **Simulated Annealing**, a probabilistic technique used to approximate the global optimum of a given function.
-- **Solution 2** is based on **Tabu Search**, a metaheuristic that guides a local heuristic search procedure to explore the solution space beyond local optimality.
+- **Solution 1** is based on **Simulated Annealing**
+- **Solution 2** is based on **Tabu Search**
 
 ### Results
 
