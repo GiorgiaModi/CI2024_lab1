@@ -31,3 +31,5 @@ Based on the performance data in the table:
 2. **Fitness:** **Tabu Search (Solution 2)** produces better fitness values across all instances, indicating that while it is slower, it tends to find better solutions. 
 
 While Simulated Annealing handles larger instances more efficiently in terms of execution time, the trade-off is a lower fitness quality. Tabu Search, though computationally expensive, proves to be more robust in terms of solution quality, especially for larger and more complex instances.
+
+The code I've uploaded is only for instance 2, but I've tested all the instances and reported the results in the table and in the folder "plots".
