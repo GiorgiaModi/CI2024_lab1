@@ -7,7 +7,7 @@ Solve efficiently these instances customizing a technique discussed in class
 
 ## Implemented Solutions
 
-I have implemented two optimization algorithms to solve the given problem:
+I have reported professor's solutions and I have implemented two optimization algorithms to solve the given problem:
 
 - **Solution 1** is based on **Simulated Annealing**
 - **Solution 2** is based on **Tabu Search**
